@@ -1,6 +1,7 @@
 ### Hi there 👋, Duhan Kosali
 #### Software Design & Development
 ![Software Design & Development](https://camo.githubusercontent.com/3aa437f9d92e1ee0c5058494163fb0baf80edcc56ea663e48e1db50d49ffe26f/68747470733a2f2f692e67697068792e636f6d2f6d656469612f53576f536b4e36447854737a71494b4571762f67697068792e77656270)
+
 💬 About Me
 - I'm Duhan from Turkey and I student at Beykoz University Software Engineer,
 
