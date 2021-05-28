@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there 👋, Duhan Kosali
+#### Software Design & Development
+![Software Design & Development](https://i.pinimg.com/originals/ac/79/9a/ac799a3e936973d079afecdc293c6809.jpg)
 
-- I'm Duhan from Turkey, and I student at Beykoz University Software Engineer,
+- I'm Duhan from Turkey and I student at Beykoz University Software Engineer,
 
 - Love to use new technologies and frameworks,
 
@@ -8,11 +10,14 @@
 
 - Strongly coding with OOP Software Design Principles and Design Patterns,
 
-- C, C++, C#, Java, Python, HTML vs.
+Computer Information:
+ - C, C++, C#, Java, Python, HTML vs.
 
-- Android Studio (Flutter Mobile Programming), QT (GUI C++), Unity (Game Engine C#), Arduino (Electronic Circuits), UiPath Studio (Artificial intelligence)
+- Android Studio (Flutter Mobile Programming), QT (GUI C++), SQLite Studio (Database), Unity (Game Engine C#), Arduino (Electronic Circuits), UiPath Studio (Artificial intelligence)
 
-You can check out my Linkedin at https://www.linkedin.com/in/duhankosali/ 
+Note: 
+⚡ You can check out my Linkedin at https://www.linkedin.com/in/duhankosali/ 
+🔭 I’m currently working on this page.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhankosali)](https://github.com/duhankosali)
 
