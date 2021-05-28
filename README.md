@@ -1,12 +1,12 @@
 ### Hi there 👋
 
-- I'm Duhan from Turkey, and I student at Beykoz University Software Engineer and Istanbul University Management Information Systems.
+- I'm Duhan from Turkey, and I student at Beykoz University Software Engineer,
 
-- Love to use new technologies and frameworks.
+- Love to use new technologies and frameworks,
 
-- Object Oriented Analysis, Design and Development
+- Object Oriented Analysis, Design and Development,
 
-- Strongly coding with OOP Software Design Principles and Design Patterns
+- Strongly coding with OOP Software Design Principles and Design Patterns,
 
 - C, C++, C#, Java, Python, HTML vs.
 
