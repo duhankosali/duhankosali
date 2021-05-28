@@ -1,6 +1,6 @@
 ### Hi there 👋, Duhan Kosali
 #### Software Design & Development
-![Software Design & Development](https://i.pinimg.com/564x/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg)
+![Software Design & Development](https://i.pinimg.com/736x/b7/09/df/b709df47bd2d777f54f2d296ecec9157.jpg)
 
 - I'm Duhan from Turkey and I student at Beykoz University Software Engineer,
 
