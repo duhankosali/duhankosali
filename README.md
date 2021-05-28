@@ -15,8 +15,7 @@ Computer Information:
 
 - Android Studio (Flutter Mobile Programming), QT (GUI C++), SQLite Studio (Database), Unity (Game Engine C#), Arduino (Electronic Circuits), UiPath Studio (Artificial intelligence)
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/duhankosali)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/duhankosali//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/duhanks//)  
-
+⚡ You can check out my Linkedin at https://www.linkedin.com/in/duhankosali/
 🔭 I’m currently working on this page.  
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhankosali)](https://github.com/duhankosali)
