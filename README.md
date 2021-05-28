@@ -18,7 +18,7 @@
 
 📫 Contact
 
-[<img src='https://camo.githubusercontent.com/f05ba276b98edd923b165d41bdbb27692b7835976393e7d2f0ee412ef9adf56b/68747470733a2f2f7777772e63616e676f6b636561736c616e2e636f6d2f63616e676f6b636561736c616e2f7374617469632f6c696e6b6564696e2e7376673f63616368655f64656c6574653d32' alt='linkedin' height='40'>](https://www.linkedin.com/in/duhankosali/)        [<img src='https://camo.githubusercontent.com/15fac66e9d46100fc2ed058c51cad4929569a9713d8d2827575e6931edd2ab72/68747470733a2f2f7777772e63616e676f6b636561736c616e2e636f6d2f63616e676f6b636561736c616e2f7374617469632f696e7374616772616d2e7376673f63616368655f64656c6574653d32' alt='instagram' height='40'>](https://www.instagram.com/duhanks/)           [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg' alt='gmail' height='40'>](duhanksali@gmail.com)  
+[<img src='https://camo.githubusercontent.com/f05ba276b98edd923b165d41bdbb27692b7835976393e7d2f0ee412ef9adf56b/68747470733a2f2f7777772e63616e676f6b636561736c616e2e636f6d2f63616e676f6b636561736c616e2f7374617469632f6c696e6b6564696e2e7376673f63616368655f64656c6574653d32' alt='linkedin' height='40'>](https://www.linkedin.com/in/duhankosali/)        [<img src='https://camo.githubusercontent.com/15fac66e9d46100fc2ed058c51cad4929569a9713d8d2827575e6931edd2ab72/68747470733a2f2f7777772e63616e676f6b636561736c616e2e636f6d2f63616e676f6b636561736c616e2f7374617469632f696e7374616772616d2e7376673f63616368655f64656c6574653d32' alt='instagram' height='40'>](https://www.instagram.com/duhanks/)         
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=duhankosali)](https://github.com/duhankosali)
