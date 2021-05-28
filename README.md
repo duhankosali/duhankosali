@@ -1,6 +1,6 @@
 ### Hi there 👋, Duhan Kosali
 #### Software Design & Development
-![Software Design & Development](https://media.customon.com/unsafe/600x600/img.customon.com//art/2/600/600/0a0909/8031/1478274139-Eat-Sleep-Code-Repeat.png.jpg)
+![Software Design & Development](https://i.pinimg.com/564x/2b/c3/7d/2bc37dee561b2bbf53d9f41dc4f92596.jpg)
 
 - I'm Duhan from Turkey and I student at Beykoz University Software Engineer,
 
