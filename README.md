@@ -15,6 +15,8 @@ Computer Information:
 
 - Android Studio (Flutter Mobile Programming), QT (GUI C++), SQLite Studio (Database), Unity (Game Engine C#), Arduino (Electronic Circuits), UiPath Studio (Artificial intelligence)
 
+[<img src='https://camo.githubusercontent.com/15fac66e9d46100fc2ed058c51cad4929569a9713d8d2827575e6931edd2ab72/68747470733a2f2f7777772e63616e676f6b636561736c616e2e636f6d2f63616e676f6b636561736c616e2f7374617469632f696e7374616772616d2e7376673f63616368655f64656c6574653d32' alt='github' height='40'>](https://github.com/duhankosali)
+
 ⚡ You can check out my Linkedin at https://www.linkedin.com/in/duhankosali/
 
 🔭 I’m currently working on this page.  
