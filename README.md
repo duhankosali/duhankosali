@@ -14,7 +14,7 @@
 ⚡ Computer Information
  - C, C++, C#, Java, Python, HTML vs.
 
-- Android Studio (Flutter Mobile Programming), QT (GUI C++), SQLite Studio (Database), Unity (Game Engine C#), Arduino (Electronic Circuits), UiPath Studio (Artificial intelligence)
+- .Net Core MVC (Web Design and Developer with C#), Android Studio (Flutter Mobile Programming), Image Processing with Python, QT (GUI with C++), SQLite Studio and SQL Server (Database), Unity (Game Engine with C#), Arduino (Electronic Circuits with C or Arduino UNO), UiPath Studio (Artificial intelligence)
 
 📫 Contact
 
